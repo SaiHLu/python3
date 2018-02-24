@@ -11,6 +11,7 @@ print(currentDate.strftime('%d %b %Y'))
 # %b is the month abbreviation
 # %B is the full month name
 # %y is two digit year
+# %Y is four digits year(1997)
 # %a is the day of the week abbreviated
 # %A is the day of the week
 # full list at => strftime.org
